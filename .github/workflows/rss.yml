@@ -1,0 +1,29 @@
+name: GitHub Release Watcher
+
+on:
+  schedule:
+    - cron: '17 * * * *'   # 每小时第17分钟，GitHub允许5分钟粒度但建议错开整点
+  workflow_dispatch:       # 允许手动触发（Actions 页 Run workflow）
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check feeds & notify
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}        # 可选；不配置则用匿名额度(60次/小时)
+          SENDKEY: ${{ secrets.SENDKEY }}          # Server酱 SendKey，必填
+        run: node check.mjs
+
+      - name: Save state
+        run: |
+          git config user.name "rss-watcher[bot]"
+          git config user.email "rss-watcher@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "update state"
+          git push
