@@ -1,0 +1,5 @@
+[
+  { "owner": "Rem0o", "repo": "FanControl.Releases", "type": "release" },
+  { "owner": "microsoft", "repo": "vscode", "type": "release" },
+  { "owner": "searxng", "repo": "searxng", "type": "commit" }
+]
