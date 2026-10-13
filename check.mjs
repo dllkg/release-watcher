@@ -32,6 +32,18 @@ for (const f of feeds) {
       const d = await api(`https://api.github.com/repos/${f.owner}/${f.repo}/tags?per_page=1`);
       if (!d.length) continue;
       current = d[0].name; title = `${f.owner}/${f.repo} 新标签：${current}`; url = `https://github.com/${f.owner}/${f.repo}/releases/tag/${current}`;
+    } else if (f.type === 'packages') {
+      // GitHub Packages：查容器镜像最新带标签版本（需 read:packages 权限的 Token）
+      let d = null;
+      try {
+        d = await api(`https://api.github.com/orgs/${f.owner}/packages/container/${f.repo}/versions?per_page=30`);
+      } catch (e) {
+        d = await api(`https://api.github.com/users/${f.owner}/packages/container/${f.repo}/versions?per_page=30`);
+      }
+      const tagged = (d || []).filter(v => (v.metadata && v.metadata.container && v.metadata.container.tags || []).length > 0);
+      if (!tagged.length) continue;
+      const tags = tagged[0].metadata.container.tags;
+      current = tags[0]; title = `${f.owner}/${f.repo} 新镜像版本：${tags.join(', ')}`; url = `https://github.com/${f.owner}/${f.repo}/pkgs/container/${f.repo}`;
     } else {
       const d = await api(`https://api.github.com/repos/${f.owner}/${f.repo}/commits?per_page=1`);
       if (!d.length) continue;
