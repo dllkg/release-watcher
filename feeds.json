@@ -1,5 +1,127 @@
 [
-  { "owner": "Rem0o", "repo": "FanControl.Releases", "type": "release" },
-  { "owner": "microsoft", "repo": "vscode", "type": "release" },
-  { "owner": "searxng", "repo": "searxng", "type": "commit" }
+  {
+    "owner": "langgenius",
+    "repo": "dify",
+    "type": "release"
+  },
+  {
+    "owner": "ggml-org",
+    "repo": "llama.cpp",
+    "type": "release"
+  },
+  {
+    "owner": "certd",
+    "repo": "certd",
+    "type": "release"
+  },
+  {
+    "owner": "nginx",
+    "repo": "nginx",
+    "type": "release"
+  },
+  {
+    "owner": "qdrant",
+    "repo": "qdrant",
+    "type": "release"
+  },
+  {
+    "owner": "rustfs",
+    "repo": "rustfs",
+    "type": "tag"
+  },
+  {
+    "owner": "Rem0o",
+    "repo": "FanControl.Releases",
+    "type": "release"
+  },
+  {
+    "owner": "searxng",
+    "repo": "searxng",
+    "type": "packages"
+  },
+  {
+    "owner": "laurent22",
+    "repo": "joplin-android",
+    "type": "release"
+  },
+  {
+    "owner": "BerriAI",
+    "repo": "litellm",
+    "type": "release"
+  },
+  {
+    "owner": "zbezj",
+    "repo": "HEU_KMS_Activator",
+    "type": "release"
+  },
+  {
+    "owner": "infiniflow",
+    "repo": "ragflow",
+    "type": "release"
+  },
+  {
+    "owner": "dbeaver",
+    "repo": "dbeaver",
+    "type": "release"
+  },
+  {
+    "owner": "sansan0",
+    "repo": "TrendRadar",
+    "type": "tag"
+  },
+  {
+    "owner": "open-webui",
+    "repo": "open-webui",
+    "type": "release"
+  },
+  {
+    "owner": "jamiepine",
+    "repo": "voicebox",
+    "type": "release"
+  },
+  {
+    "owner": "rachelos",
+    "repo": "we-mp-rss",
+    "type": "release"
+  },
+  {
+    "owner": "TimSirmovics",
+    "repo": "FanControl.NvThermalSensors",
+    "type": "release"
+  },
+  {
+    "owner": "valkey-io",
+    "repo": "valkey",
+    "type": "release"
+  },
+  {
+    "owner": "DevXDojo",
+    "repo": "MrRSS",
+    "type": "release"
+  },
+  {
+    "owner": "qishibo",
+    "repo": "AnotherRedisDesktopManager",
+    "type": "release"
+  },
+  {
+    "owner": "prometheus",
+    "repo": "prometheus",
+    "type": "release"
+  },
+  {
+    "owner": "marktext",
+    "repo": "marktext",
+    "type": "release"
+  },
+  {
+    "owner": "notepad-plus-plus",
+    "repo": "notepad-plus-plus",
+    "type": "release"
+  },
+  {
+    "owner": "docmirror",
+    "repo": "dev-sidecar",
+    "type": "release"
+  }
 ]
