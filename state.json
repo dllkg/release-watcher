@@ -1,7 +1,7 @@
 {
   "langgenius/dify:release": "1.17.1",
   "ggml-org/llama.cpp:release": "v0.7.0",
-  "certd/certd:release": "v1.45.2",
+  "certd/certd:release": "v1.45.3",
   "nginx/nginx:release": "release-1.31.7",
   "qdrant/qdrant:release": "v1.19.2",
   "rustfs/rustfs:tag": "v1.0.0-beta.1",
