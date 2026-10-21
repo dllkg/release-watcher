@@ -21,7 +21,7 @@
   "DevXDojo/MrRSS:release": "v1.3.40",
   "qishibo/AnotherRedisDesktopManager:release": "v1.7.4",
   "prometheus/prometheus:release": "v3.15.0",
-  "marktext/marktext:release": "v0.22.0",
+  "marktext/marktext:release": "v0.23.0",
   "notepad-plus-plus/notepad-plus-plus:release": "v8.9.8.1",
   "docmirror/dev-sidecar:release": "v2.3.1"
 }
