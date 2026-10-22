@@ -3,7 +3,7 @@
   "ggml-org/llama.cpp:release": "v0.7.0",
   "certd/certd:release": "v1.45.5",
   "nginx/nginx:release": "release-1.31.8",
-  "qdrant/qdrant:release": "v1.19.2",
+  "qdrant/qdrant:release": "v1.20.0",
   "rustfs/rustfs:tag": "v1.0.0-beta.1",
   "Rem0o/FanControl.Releases:release": "V284",
   "searxng/searxng:packages": "2026.10.19-81371861f",
@@ -23,5 +23,5 @@
   "prometheus/prometheus:release": "v3.15.1",
   "marktext/marktext:release": "v0.23.0",
   "notepad-plus-plus/notepad-plus-plus:release": "v8.9.8.1",
-  "docmirror/dev-sidecar:release": "v2.3.1"
+  "docmirror/dev-sidecar:release": "v2.3.2"
 }
