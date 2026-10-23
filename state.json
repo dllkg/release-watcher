@@ -1,5 +1,5 @@
 {
-  "langgenius/dify:release": "1.17.1",
+  "langgenius/dify:release": "1.18.0",
   "ggml-org/llama.cpp:release": "v0.7.0",
   "certd/certd:release": "v1.45.5",
   "nginx/nginx:release": "release-1.31.8",
