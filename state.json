@@ -6,7 +6,7 @@
   "qdrant/qdrant:release": "v1.20.0",
   "rustfs/rustfs:tag": "v1.0.0-beta.1",
   "Rem0o/FanControl.Releases:release": "V284",
-  "searxng/searxng:packages": "2026.10.24-ef0ec03da",
+  "searxng/searxng:packages": "2026.10.25-54ca1d9cf",
   "laurent22/joplin-android:release": "android-v3.7.10",
   "BerriAI/litellm:release": "v1.106.4",
   "zbezj/HEU_KMS_Activator:release": "64.0.0",
