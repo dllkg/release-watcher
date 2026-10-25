@@ -23,5 +23,5 @@
   "prometheus/prometheus:release": "v3.15.1",
   "marktext/marktext:release": "v0.23.0",
   "notepad-plus-plus/notepad-plus-plus:release": "v8.9.8.1",
-  "docmirror/dev-sidecar:release": "v2.3.2"
+  "docmirror/dev-sidecar:release": "v2.3.3"
 }
