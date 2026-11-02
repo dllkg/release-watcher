@@ -6,7 +6,7 @@
   "qdrant/qdrant:release": "v1.20.0",
   "rustfs/rustfs:tag": "v1.0.0-beta.1",
   "Rem0o/FanControl.Releases:release": "V284",
-  "searxng/searxng:packages": "2026.11.1-10db664f1",
+  "searxng/searxng:packages": "2026.11.2-d138f443b",
   "laurent22/joplin-android:release": "android-v3.7.10",
   "BerriAI/litellm:release": "v1.106.6",
   "zbezj/HEU_KMS_Activator:release": "64.0.0",
@@ -23,5 +23,5 @@
   "prometheus/prometheus:release": "v3.15.1",
   "marktext/marktext:release": "v0.23.0",
   "notepad-plus-plus/notepad-plus-plus:release": "v8.9.8.1",
-  "docmirror/dev-sidecar:release": "v2.3.3"
+  "docmirror/dev-sidecar:release": "v2.3.4"
 }
