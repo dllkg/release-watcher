@@ -13,7 +13,7 @@
   "infiniflow/ragflow:release": "v1.0.0-rc3",
   "dbeaver/dbeaver:release": "26.2.4",
   "sansan0/TrendRadar:tag": "v6.11.0",
-  "open-webui/open-webui:release": "v0.12.5",
+  "open-webui/open-webui:release": "v0.13.0",
   "jamiepine/voicebox:release": "v0.5.0",
   "rachelos/we-mp-rss:release": "v1.5.3",
   "TimSirmovics/FanControl.NvThermalSensors:release": "v1.3",
@@ -23,5 +23,5 @@
   "prometheus/prometheus:release": "v3.15.1",
   "marktext/marktext:release": "v0.23.0",
   "notepad-plus-plus/notepad-plus-plus:release": "v8.9.8.1",
-  "docmirror/dev-sidecar:release": "v2.3.4"
+  "docmirror/dev-sidecar:release": "v2.3.5"
 }
