@@ -1,5 +1,5 @@
 {
-  "langgenius/dify:release": "1.18.0",
+  "langgenius/dify:release": "1.19.0",
   "ggml-org/llama.cpp:release": "v0.8.0",
   "certd/certd:release": "v1.46.0",
   "nginx/nginx:release": "release-1.31.8",
@@ -8,7 +8,7 @@
   "Rem0o/FanControl.Releases:release": "V285",
   "searxng/searxng:packages": "2026.11.2-cccbc9e15",
   "laurent22/joplin-android:release": "android-v3.7.10",
-  "BerriAI/litellm:release": "v1.106.6",
+  "BerriAI/litellm:release": "v1.108.0",
   "zbezj/HEU_KMS_Activator:release": "64.0.0",
   "infiniflow/ragflow:release": "v1.0.0-rc3",
   "dbeaver/dbeaver:release": "26.2.4",
