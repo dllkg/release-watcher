@@ -1,6 +1,6 @@
 {
   "langgenius/dify:release": "1.19.0",
-  "ggml-org/llama.cpp:release": "v0.8.0",
+  "ggml-org/llama.cpp:release": "v0.9.0",
   "certd/certd:release": "v1.46.0",
   "nginx/nginx:release": "release-1.31.8",
   "qdrant/qdrant:release": "v1.20.0",
