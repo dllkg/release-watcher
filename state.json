@@ -6,7 +6,7 @@
   "qdrant/qdrant:release": "v1.20.0",
   "rustfs/rustfs:tag": "v1.0.0-beta.1",
   "Rem0o/FanControl.Releases:release": "V285",
-  "searxng/searxng:packages": "2026.11.2-cccbc9e15",
+  "searxng/searxng:packages": "2026.11.5-3e95f6cd2",
   "laurent22/joplin-android:release": "android-v3.7.10",
   "BerriAI/litellm:release": "v1.108.0",
   "zbezj/HEU_KMS_Activator:release": "64.0.0",
@@ -20,7 +20,7 @@
   "valkey-io/valkey:release": "9.1.3",
   "DevXDojo/MrRSS:release": "v1.3.41",
   "qishibo/AnotherRedisDesktopManager:release": "v1.7.4",
-  "prometheus/prometheus:release": "v3.15.1",
+  "prometheus/prometheus:release": "v3.16.0",
   "marktext/marktext:release": "v0.23.0",
   "notepad-plus-plus/notepad-plus-plus:release": "v8.9.8.1",
   "docmirror/dev-sidecar:release": "v2.3.5"
