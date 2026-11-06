@@ -10,7 +10,7 @@
   "laurent22/joplin-android:release": "android-v3.7.10",
   "BerriAI/litellm:release": "v1.108.1",
   "zbezj/HEU_KMS_Activator:release": "64.0.0",
-  "infiniflow/ragflow:release": "v1.0.0-rc3",
+  "infiniflow/ragflow:release": "v1.0.0",
   "dbeaver/dbeaver:release": "26.2.4",
   "sansan0/TrendRadar:tag": "v6.11.0",
   "open-webui/open-webui:release": "v0.13.0",
@@ -22,6 +22,6 @@
   "qishibo/AnotherRedisDesktopManager:release": "v1.7.4",
   "prometheus/prometheus:release": "v3.16.0",
   "marktext/marktext:release": "v0.23.0",
-  "notepad-plus-plus/notepad-plus-plus:release": "v8.9.8.1",
+  "notepad-plus-plus/notepad-plus-plus:release": "v8.9.9",
   "docmirror/dev-sidecar:release": "v2.3.5"
 }
