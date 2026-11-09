@@ -1,7 +1,7 @@
 {
   "langgenius/dify:release": "1.19.0",
   "ggml-org/llama.cpp:release": "v0.9.0",
-  "certd/certd:release": "v1.46.0",
+  "certd/certd:release": "v1.46.1",
   "nginx/nginx:release": "release-1.31.8",
   "qdrant/qdrant:release": "v1.20.0",
   "rustfs/rustfs:tag": "v1.0.0-beta.1",
@@ -13,7 +13,7 @@
   "infiniflow/ragflow:release": "v1.0.0",
   "dbeaver/dbeaver:release": "26.2.4",
   "sansan0/TrendRadar:tag": "v6.11.0",
-  "open-webui/open-webui:release": "v0.13.2",
+  "open-webui/open-webui:release": "v0.13.3",
   "jamiepine/voicebox:release": "v0.5.0",
   "rachelos/we-mp-rss:release": "v1.5.3",
   "TimSirmovics/FanControl.NvThermalSensors:release": "v1.3",
