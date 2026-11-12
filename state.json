@@ -8,7 +8,7 @@
   "Rem0o/FanControl.Releases:release": "V285",
   "searxng/searxng:packages": "2026.11.11-626105eec",
   "laurent22/joplin-android:release": "android-v3.7.10",
-  "BerriAI/litellm:release": "v1.109.0",
+  "BerriAI/litellm:release": "v1.109.1",
   "zbezj/HEU_KMS_Activator:release": "64.0.0",
   "infiniflow/ragflow:release": "v1.0.0",
   "dbeaver/dbeaver:release": "26.2.4",
@@ -22,6 +22,6 @@
   "qishibo/AnotherRedisDesktopManager:release": "v1.7.4",
   "prometheus/prometheus:release": "v3.16.0",
   "marktext/marktext:release": "v0.23.0",
-  "notepad-plus-plus/notepad-plus-plus:release": "v8.9.9",
+  "notepad-plus-plus/notepad-plus-plus:release": "v8.9.9.1",
   "docmirror/dev-sidecar:release": "v2.3.5"
 }
