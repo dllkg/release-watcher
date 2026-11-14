@@ -18,7 +18,7 @@
   "rachelos/we-mp-rss:release": "v1.5.3",
   "TimSirmovics/FanControl.NvThermalSensors:release": "v1.3",
   "valkey-io/valkey:release": "9.1.3",
-  "DevXDojo/MrRSS:release": "v1.3.42",
+  "DevXDojo/MrRSS:release": "v1.3.43",
   "qishibo/AnotherRedisDesktopManager:release": "v1.7.4",
   "prometheus/prometheus:release": "v3.16.0",
   "marktext/marktext:release": "v0.23.0",
