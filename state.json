@@ -3,7 +3,7 @@
   "ggml-org/llama.cpp:release": "v1.0.0",
   "certd/certd:release": "v1.47.1",
   "nginx/nginx:release": "release-1.31.8",
-  "qdrant/qdrant:release": "v1.20.1",
+  "qdrant/qdrant:release": "v1.20.2",
   "rustfs/rustfs:tag": "v1.0.0-beta.1",
   "Rem0o/FanControl.Releases:release": "V285",
   "searxng/searxng:packages": "2026.11.15-2d500cb6b",
