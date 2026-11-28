@@ -5,7 +5,7 @@
   "nginx/nginx:release": "release-1.31.10",
   "qdrant/qdrant:release": "v1.20.2",
   "rustfs/rustfs:tag": "v1.0.0-beta.1",
-  "Rem0o/FanControl.Releases:release": "V286",
+  "Rem0o/FanControl.Releases:release": "V287",
   "searxng/searxng:packages": "2026.11.26-b5605b8f2",
   "laurent22/joplin-android:release": "android-v3.7.12",
   "BerriAI/litellm:release": "v1.111.0",
